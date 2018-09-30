@@ -2,6 +2,10 @@
   margin-top: 40px;
 }
 
+.chartHeight {
+  height: 400px;
+}
+
 .title {
   font-size: 30px !important;
   font-weight: 400 !important;
