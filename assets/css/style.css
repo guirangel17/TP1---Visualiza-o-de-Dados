@@ -1,0 +1,10 @@
+.chartMargin {
+  margin-top: 40px;
+}
+
+.title {
+  font-size: 30px !important;
+  font-weight: 400 !important;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
